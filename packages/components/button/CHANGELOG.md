@@ -1,5 +1,15 @@
 # @heroui/button
 
+## 2.2.28
+
+### Patch Changes
+
+- [#5893](https://github.com/heroui-inc/heroui/pull/5893) [`fd9dd2a`](https://github.com/heroui-inc/heroui/commit/fd9dd2a20c30beb4f46a8a6ab5d654ec7b9dbec1) Thanks [@hasegawa-101](https://github.com/hasegawa-101)! - Fix bordered focus styles overridden by hover styles (#5585)
+
+- Updated dependencies [[`1782961`](https://github.com/heroui-inc/heroui/commit/17829618591d723beea665a7c56d9c45a112e24c), [`91e010f`](https://github.com/heroui-inc/heroui/commit/91e010fe3bd8e49653bd53c47e9955d8b11c1db2)]:
+  - @heroui/spinner@2.2.25
+  - @heroui/ripple@2.2.21
+
 ## 2.2.27
 
 ### Patch Changes

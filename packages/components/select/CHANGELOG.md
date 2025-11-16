@@ -1,5 +1,18 @@
 # @heroui/select
 
+## 2.4.29
+
+### Patch Changes
+
+- [#5893](https://github.com/heroui-inc/heroui/pull/5893) [`fd9dd2a`](https://github.com/heroui-inc/heroui/commit/fd9dd2a20c30beb4f46a8a6ab5d654ec7b9dbec1) Thanks [@hasegawa-101](https://github.com/hasegawa-101)! - Fix bordered focus styles overridden by hover styles (#5585)
+
+- Updated dependencies [[`1782961`](https://github.com/heroui-inc/heroui/commit/17829618591d723beea665a7c56d9c45a112e24c)]:
+  - @heroui/spinner@2.2.25
+  - @heroui/form@2.1.28
+  - @heroui/listbox@2.3.26
+  - @heroui/popover@2.3.28
+  - @heroui/scroll-shadow@2.3.18
+
 ## 2.4.28
 
 ### Patch Changes

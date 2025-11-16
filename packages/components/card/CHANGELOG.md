@@ -1,5 +1,12 @@
 # @heroui/card
 
+## 2.2.26
+
+### Patch Changes
+
+- Updated dependencies [[`91e010f`](https://github.com/heroui-inc/heroui/commit/91e010fe3bd8e49653bd53c47e9955d8b11c1db2)]:
+  - @heroui/ripple@2.2.21
+
 ## 2.2.25
 
 ### Patch Changes

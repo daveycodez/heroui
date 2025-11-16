@@ -1,5 +1,14 @@
 # @heroui/input
 
+## 2.4.29
+
+### Patch Changes
+
+- [#5893](https://github.com/heroui-inc/heroui/pull/5893) [`fd9dd2a`](https://github.com/heroui-inc/heroui/commit/fd9dd2a20c30beb4f46a8a6ab5d654ec7b9dbec1) Thanks [@hasegawa-101](https://github.com/hasegawa-101)! - Fix bordered focus styles overridden by hover styles (#5585)
+
+- Updated dependencies []:
+  - @heroui/form@2.1.28
+
 ## 2.4.28
 
 ### Patch Changes

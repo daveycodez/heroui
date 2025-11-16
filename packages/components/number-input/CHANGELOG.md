@@ -1,5 +1,15 @@
 # @heroui/number-input
 
+## 2.0.19
+
+### Patch Changes
+
+- [#5866](https://github.com/heroui-inc/heroui/pull/5866) [`bdd37b4`](https://github.com/heroui-inc/heroui/commit/bdd37b4b08cc12dc3c93f031aa639148257d06d6) Thanks [@KumJungMin](https://github.com/KumJungMin)! - allow inheriting labelPlacement from HeroUIProvider (#5845)
+
+- Updated dependencies [[`fd9dd2a`](https://github.com/heroui-inc/heroui/commit/fd9dd2a20c30beb4f46a8a6ab5d654ec7b9dbec1)]:
+  - @heroui/button@2.2.28
+  - @heroui/form@2.1.28
+
 ## 2.0.18
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @heroui/snippet
 
+## 2.2.29
+
+### Patch Changes
+
+- Updated dependencies [[`fd9dd2a`](https://github.com/heroui-inc/heroui/commit/fd9dd2a20c30beb4f46a8a6ab5d654ec7b9dbec1)]:
+  - @heroui/button@2.2.28
+  - @heroui/tooltip@2.2.24
+
 ## 2.2.28
 
 ### Patch Changes
